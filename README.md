@@ -65,12 +65,6 @@ Experienced Software Engineer with over 10 years of professional expertise in de
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agoldust&show_icons=true&theme=visual_studio_dark&include_all_commits=true" alt="Akbar's GitHub Stats" />
-</p>
-
----
-
 ### 🚀 About Me
 
 - 🛠️ Extensive experience in backend architectures, microservices, and database optimization.
