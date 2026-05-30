@@ -78,4 +78,5 @@ Experienced Software Engineer with over 10 years of professional expertise in de
 ### 📫 Connect with me
 
 - 💼 LinkedIn: [linkedin.com/in/agoldust](https://www.linkedin.com/in/agoldust/)
+- ✈️ Telegram: [@agoldust](https://t.me/agoldust)
 - 📧 Email: agoldust@gmail.com
