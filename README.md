@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there, I'm Akbar Goldoust! 👋
 ### Senior Full-Stack / Backend Developer
 
@@ -67,11 +66,14 @@ Experienced Software Engineer with over 10 years of professional expertise in de
 
 ### 🚀 About Me
 
-- 🛠️ Extensive experience in backend architectures, microservices, and database optimization.
+- 🎓 **B.Sc. in Software Engineering** with more than a decade of professional hands-on experience.
+- 🏗️ Deeply involved in designing architectures for large-scale applications, custom **ERP platforms**, and e-commerce solutions.
+- 🐳 Strong focus on modern **Containerization (Docker)** to build isolated, resilient development and production environments.
 - 📐 Strong advocate for Object-Oriented Programming (OOP), Clean Code, and SOLID principles.
 - 🤝 Experienced in Agile methodologies, Scrum, and cross-functional team collaboration.
-- 🌍 Based in Duisburg, Germany.
-- 🎯 Always learning, exploring new technologies, and refining development workflows.
+- 🌍 Based in **Duisburg, Germany**.
+- 🗣️ Multilingual engineer fluent in **English** and **Persian**, currently mastering **German** (B1 level).
+- 🧗‍♂️ Outside of programming, you can usually find me indoor bouldering or **rock climbing**.
 
 ---
 
