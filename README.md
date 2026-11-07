@@ -50,7 +50,7 @@ Senior Full-Stack Software Engineer with **16+ years** of experience architectin
 
 **🧩 Also worked with:** Java (Spring Boot) · Go · Node.js (Express) · Vue.js · JavaScript · HTML5 / CSS3 · MS SQL Server · Kotlin / Android · Flutter / Dart · Solidity · Linux · CI/CD pipelines
 
-**🤖 AI & Dev Tools:** Claude Code · GitHub Copilot · LLM Integration · MCP
+**🤖 AI & Dev Tools:** Agentic engineering (Claude Code, spec-driven development, MCP) · GitHub Copilot · LLM Integration
 
 ---
 
@@ -60,7 +60,7 @@ Senior Full-Stack Software Engineer with **16+ years** of experience architectin
 - 🏗️ Architecting enterprise portals, real-time **telemetry** platforms, and nationwide event & ticketing systems used by thousands of attendees and vendors.
 - ⚙️ Building end-to-end **automation workflows** — from cron-driven notification engines to automated monitoring and reporting pipelines.
 - 🐳 Strong focus on **containerization (Docker)** and cloud-native environments for resilient development and production setups.
-- 🤖 Using modern **AI development tools** (Claude Code, GitHub Copilot, MCP) to enforce clean architecture and accelerate delivery.
+- 🤖 Practicing **agentic engineering**: directing AI coding agents (Claude Code, MCP) with written specs, tests, and code review to ship faster without compromising code quality.
 - 📐 Strong advocate for OOP, Clean Code, and SOLID principles; experienced in Agile/Scrum and cross-functional teamwork.
 - 🌍 Based in **Duisburg, Germany**.
 - 🗣️ Multilingual: **English** (C1), **Persian** (native), and **German** (B2, actively improving).
