@@ -133,11 +133,13 @@ Senior Full-Stack Software Engineer with **16+ years** of experience architectin
 
 ### 🧭 Experience Highlights
 
-- **Aqua Dreams GmbH** (2026 – present) — Enterprise SSBE Portal with Laravel, Angular 21 & MySQL for real-time telemetry and smart IoT control.
-- **Scrapbook Expo** · USA / Remote (2018 – 2026) — Full-stack platform behind 15+ annual U.S. trade shows: role-based exhibitor portal, waitlists, automated notifications.
-- **Queensland Media Holdings** · Australia / Remote (2011 – 2015) — Lead Web Developer; built the BazoolTV streaming app and newsroom software.
-- **Nedap** · Netherlands / Remote (2009 – 2011) — Interactive "Wear & Compare" retail kiosk, shown at EuroCIS.
-- **Freelancer.com** — 130+ delivered projects across e-commerce, gaming, and media.
+- **Aqua Dreams GmbH** · Software Engineer (2026 – present) — Full-stack portal with Laravel, Angular & MySQL for real-time telemetry and user management; high-performance schema design and indexing.
+- **Scrapbook Expo** · Software Engineer · USA / Remote (2018 – 2026) — Scalable web apps and RESTful APIs (PHP, Angular, PostgreSQL, MySQL) behind 15+ annual U.S. trade shows: role-based Staff/Exhibitor portal, real-time waitlists, automated notifications, SQL tuning across MySQL & MS SQL Server.
+- **Control Tajhiz Khazar (Kh.E.C)** · Freelance Software Engineer · Rasht, Iran (2021 – 2025) — Cross-platform web and mobile apps with PHP, MySQL, Android & AngularJS.
+- **Hoosh System Gil** · Software Engineer · Rasht, Iran (2015 – 2018) — Backend logic and relational databases in PHP/MySQL; responsive web suites with AngularJS & Bootstrap.
+- **Queensland Media Holdings (Daily Mercury)** · Australia / Remote (2011 – 2015) — Software Engineer, then Lead Web Developer (2013 – 2015); built the BazoolTV streaming app, newsroom software, and led a team on REST APIs.
+- **Nedap** · Software Engineer · Netherlands / Remote (2009 – 2011) — Interactive "Wear & Compare" retail kiosk with camera and touch integration, shown at EuroCIS.
+- **Freelancer.com** · Software Developer (2008 – 2011) — 130+ delivered projects across e-commerce, gaming, and media.
 
 ---
 
