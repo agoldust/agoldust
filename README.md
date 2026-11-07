@@ -120,13 +120,13 @@ Senior Full-Stack Software Engineer with **16+ years** of experience architectin
 ### 🚀 About Me
 
 - 🎓 **B.Sc. in Software Engineering** with **16+ years** of hands-on professional experience.
-- 🏗️ Architecting enterprise portals, real-time **IoT telemetry** platforms, and nationwide event & ticketing systems used by thousands of attendees and vendors.
-- ⚙️ Building end-to-end **automation workflows** — from cron-driven notification engines to automated IoT dosing and monitoring pipelines.
+- 🏗️ Architecting enterprise portals, real-time **telemetry** platforms, and nationwide event & ticketing systems used by thousands of attendees and vendors.
+- ⚙️ Building end-to-end **automation workflows** — from cron-driven notification engines to automated monitoring and reporting pipelines.
 - 🐳 Strong focus on **containerization (Docker)** and cloud-native environments for resilient development and production setups.
 - 🤖 Using modern **AI development tools** (Claude Code, GitHub Copilot, MCP) to enforce clean architecture and accelerate delivery.
 - 📐 Strong advocate for OOP, Clean Code, and SOLID principles; experienced in Agile/Scrum and cross-functional teamwork.
 - 🌍 Based in **Duisburg, Germany**.
-- 🗣️ Multilingual: **English** (C1), **Persian** (native), and **German** (B1/B2, actively improving).
+- 🗣️ Multilingual: **English** (C1), **Persian** (native), and **German** (B2, actively improving).
 - 🧗‍♂️ Outside of programming, you can usually find me indoor bouldering or **rock climbing**.
 
 ---
