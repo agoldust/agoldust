@@ -1,7 +1,7 @@
 # Hi there, I'm Akbar Goldoust! 👋
-### Senior Software Engineer · Full-Stack / Backend
+### Senior Full-Stack Software Engineer · PHP/Laravel · Angular · SQL
 
-Senior Full-Stack Software Engineer with **16+ years** of experience architecting high-performance web applications, automated control systems, and data-centric software. Expert in **PHP (Laravel)**, **Angular**, and **TypeScript**, with deep experience optimizing database architectures across MySQL, PostgreSQL, and MS SQL Server. Passionate about clean code, software architecture, and solving complex technical challenges.
+I build business web applications from the database to the browser: **Angular** frontends, **Laravel** REST APIs and **MySQL / PostgreSQL** schemas with indexes that keep queries fast. From 2018 to 2026 I developed the web platform behind Scrapbook Expo's 15+ U.S. trade shows a year, and in 2026 I built the internal ERP at Aqua Dreams. **16+ years** in software.
 
 ---
 
@@ -57,9 +57,9 @@ Senior Full-Stack Software Engineer with **16+ years** of experience architectin
 ### 🚀 About Me
 
 - 🎓 **B.Sc. in Software Engineering** with **16+ years** of hands-on professional experience.
-- 🏗️ Architecting enterprise portals, real-time **telemetry** platforms, and nationwide event & ticketing systems used by thousands of attendees and vendors.
+- 🏗️ Built an internal **ERP**, a trade-show platform with staff and exhibitor portals, and event & ticketing systems used by thousands of attendees and vendors.
 - ⚙️ Building end-to-end **automation workflows** — from cron-driven notification engines to automated monitoring and reporting pipelines.
-- 🐳 Strong focus on **containerization (Docker)** and cloud-native environments for resilient development and production setups.
+- 🐳 **Docker** for development and production, deployed on Linux servers with nginx.
 - 🤖 Practicing **agentic engineering**: directing AI coding agents (Claude Code, MCP) with written specs, tests, and code review to ship faster without compromising code quality.
 - 📐 Strong advocate for OOP, Clean Code, and SOLID principles; experienced in Agile/Scrum and cross-functional teamwork.
 - 🌍 Based in **Duisburg, Germany**.
@@ -70,7 +70,7 @@ Senior Full-Stack Software Engineer with **16+ years** of experience architectin
 
 ### 🧭 Experience Highlights
 
-- **Aqua Dreams GmbH** · Software Engineer (2026 – present) — Full-stack portal with Laravel, Angular & MySQL for real-time telemetry and user management; high-performance schema design and indexing.
+- **Aqua Dreams GmbH** · Software Engineer (2026 – present) — Internal ERP with an Angular frontend, a Laravel REST API and MySQL; schema design and indexing.
 - **Scrapbook Expo** · Software Engineer · USA / Remote (2018 – 2026) — Scalable web apps and RESTful APIs (PHP, Angular, PostgreSQL, MySQL) behind 15+ annual U.S. trade shows: role-based Staff/Exhibitor portal, real-time waitlists, automated notifications, SQL tuning across MySQL & MS SQL Server.
 - **Control Tajhiz Khazar (Kh.E.C)** · Freelance Software Engineer · Rasht, Iran (2021 – 2025) — Cross-platform web and mobile apps with PHP, MySQL, Android & AngularJS.
 - **Hoosh System Gil** · Software Engineer · Rasht, Iran (2015 – 2018) — Backend logic and relational databases in PHP/MySQL; responsive web suites with AngularJS & Bootstrap.
@@ -83,7 +83,7 @@ Senior Full-Stack Software Engineer with **16+ years** of experience architectin
 ### 🛠️ Featured Projects
 
 - **[Inventory Platform](https://github.com/agoldust/Inventory_platform)** — Product and stock tracking: Go REST API on PostgreSQL, Vue 3 + TypeScript frontend, Prometheus & Grafana monitoring and a cookie-based A/B test, all started with one Docker Compose command.
-- **[Claude Usage Monitor](https://github.com/agoldust/Claude-Monitor-Usage-Statics)** — Windows desktop app (WPF, .NET 8) that shows Claude Code usage and live plan limits, with a dashboard and an always-on-top widget.
+- **[Limitlight for Claude](https://github.com/agoldust/Limitlight-for-Claude)** — Free Windows app (WPF, .NET 8) that shows live Claude plan limits, a reset countdown and Claude Code usage statistics.
 - **[my-php-utils](https://github.com/agoldust/my-php-utils)** — PSR-4 PHP package for checking web pages (e.g. appointment availability via the eTermin API) and sending automated WhatsApp notifications.
 
 ➡️ More projects on [goldoust.de/projects](https://www.goldoust.de/projects/)
